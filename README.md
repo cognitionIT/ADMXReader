@@ -5,5 +5,7 @@ I created this script to quickly retrieve the registry keys that are being confi
 
 Feel free to use the script or provide me with feedback to improve the script.
 
+Adding an new line to test the GitHub branches functionality (trying to work on my full GitHub use potential here) ;-)
+
 Cheers,
 Esther
